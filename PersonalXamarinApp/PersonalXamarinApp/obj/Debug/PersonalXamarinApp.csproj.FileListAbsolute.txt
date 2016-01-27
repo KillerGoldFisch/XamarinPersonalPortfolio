@@ -1,0 +1,13 @@
+C:\Users\Abhishek\All\Dev\Projects\PersonalXamarinApp\PersonalXamarinApp\PersonalXamarinApp\bin\Debug\PersonalXamarinApp.dll
+C:\Users\Abhishek\All\Dev\Projects\PersonalXamarinApp\PersonalXamarinApp\PersonalXamarinApp\bin\Debug\PersonalXamarinApp.pdb
+C:\Users\Abhishek\All\Dev\Projects\PersonalXamarinApp\PersonalXamarinApp\PersonalXamarinApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Abhishek\All\Dev\Projects\PersonalXamarinApp\PersonalXamarinApp\PersonalXamarinApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Abhishek\All\Dev\Projects\PersonalXamarinApp\PersonalXamarinApp\PersonalXamarinApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Abhishek\All\Dev\Projects\PersonalXamarinApp\PersonalXamarinApp\PersonalXamarinApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Abhishek\All\Dev\Projects\PersonalXamarinApp\PersonalXamarinApp\PersonalXamarinApp\obj\Debug\PersonalXamarinApp.csprojResolveAssemblyReference.cache
+C:\Users\Abhishek\All\Dev\Projects\PersonalXamarinApp\PersonalXamarinApp\PersonalXamarinApp\obj\Debug\PersonalXamarinApp.dll
+C:\Users\Abhishek\All\Dev\Projects\PersonalXamarinApp\PersonalXamarinApp\PersonalXamarinApp\obj\Debug\PersonalXamarinApp.pdb
+C:\Users\Abhishek\All\Dev\Projects\PersonalXamarinApp\PersonalXamarinApp\PersonalXamarinApp\obj\Debug\MainPage.xaml.g.cs
+C:\Users\Abhishek\All\Dev\Projects\PersonalXamarinApp\PersonalXamarinApp\PersonalXamarinApp\obj\Debug\ProjectPage.xaml.g.cs
+C:\Users\Abhishek\All\Dev\Projects\PersonalXamarinApp\PersonalXamarinApp\PersonalXamarinApp\obj\Debug\PersonalXamarinApp.dll.mdb
+C:\Users\Abhishek\All\Dev\Projects\PersonalXamarinApp\PersonalXamarinApp\PersonalXamarinApp\bin\Debug\PersonalXamarinApp.dll.mdb
