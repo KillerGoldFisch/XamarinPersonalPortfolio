@@ -13,7 +13,7 @@ namespace PersonalXamarinApp.ModelViews
 
         public IntroductionViewModel()
         {
-            Introduction = new Introduction { firstName = "", lastName = "", description = "" };
+            Introduction = new Introduction { firstName = "Abhishek", lastName = "Joshi", description = "I love making applications and solving technical problems. As a sophomore at the University of Washington, I enjoy studying informatics and business while taking advantage of the incredible technology and entrepreneurship opportunities on campus." };
         }
     }
 }
