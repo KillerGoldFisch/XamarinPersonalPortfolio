@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PersonalXamarinApp.ModelViews;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,11 @@ namespace PersonalXamarinApp.Views
     {
         public MainPage()
         {
+            var contactVM = new ContactViewModel();
+            var experienceVM = new ExperienceViewModel();
+            var introVM = new IntroductionViewModel();
+            var projectsVM = new ProjectsViewModel();
+
             InitializeComponent();
         }
     }

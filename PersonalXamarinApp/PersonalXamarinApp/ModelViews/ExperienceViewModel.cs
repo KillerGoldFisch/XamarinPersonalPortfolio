@@ -9,7 +9,7 @@ namespace PersonalXamarinApp.ModelViews
 {
     public class ExperienceViewModel
     {
-        public List<Experience> Experience;
+        public List<Experience> Experience { get; set; }
 
         public ExperienceViewModel()
         {

@@ -44,6 +44,7 @@
     <Compile Include="ModelViews\ContactViewModel.cs" />
     <Compile Include="ModelViews\ExperienceViewModel.cs" />
     <Compile Include="ModelViews\IntroductionViewModel.cs" />
+    <Compile Include="ModelViews\PortfolioViewModel.cs" />
     <Compile Include="ModelViews\ProjectsViewModel.cs" />
     <Compile Include="ModelViews\SkillsViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
