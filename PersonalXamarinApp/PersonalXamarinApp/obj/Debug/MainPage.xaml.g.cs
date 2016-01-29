@@ -16,8 +16,11 @@ namespace PersonalXamarinApp.Views {
     
     public partial class MainPage : ContentPage {
         
+        private ListView experienceListView;
+        
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(MainPage));
+            experienceListView = this.FindByName<ListView>("experienceListView");
         }
     }
 }

@@ -22,5 +22,3 @@ C:\Users\Abhishek\Documents\GitHub\XamarinPersonalPortfolio\PersonalXamarinApp\P
 C:\Users\Abhishek\Documents\GitHub\XamarinPersonalPortfolio\PersonalXamarinApp\PersonalXamarinApp\obj\Debug\ProjectPage.xaml.g.cs
 C:\Users\Abhishek\Documents\GitHub\XamarinPersonalPortfolio\PersonalXamarinApp\PersonalXamarinApp\obj\Debug\PersonalXamarinApp.dll
 C:\Users\Abhishek\Documents\GitHub\XamarinPersonalPortfolio\PersonalXamarinApp\PersonalXamarinApp\obj\Debug\PersonalXamarinApp.pdb
-C:\Users\Abhishek\Documents\GitHub\XamarinPersonalPortfolio\PersonalXamarinApp\PersonalXamarinApp\obj\Debug\PersonalXamarinApp.dll.mdb
-C:\Users\Abhishek\Documents\GitHub\XamarinPersonalPortfolio\PersonalXamarinApp\PersonalXamarinApp\bin\Debug\PersonalXamarinApp.dll.mdb

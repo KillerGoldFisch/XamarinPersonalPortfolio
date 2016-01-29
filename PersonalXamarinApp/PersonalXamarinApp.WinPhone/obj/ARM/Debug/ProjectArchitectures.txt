@@ -1,0 +1,2 @@
+C:\Users\Abhishek\Documents\GitHub\XamarinPersonalPortfolio\PersonalXamarinApp\PersonalXamarinApp.WinPhone\PersonalXamarinApp.WinPhone.csproj;arm
+C:\Users\Abhishek\Documents\GitHub\XamarinPersonalPortfolio\PersonalXamarinApp\PersonalXamarinApp\PersonalXamarinApp.csproj;neutral

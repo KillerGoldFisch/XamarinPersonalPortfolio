@@ -13,10 +13,8 @@ namespace PersonalXamarinApp.Views
     {
         public MainPage()
         {
-            var contactVM = new ContactViewModel();
-            var experienceVM = new ExperienceViewModel();
-            var introVM = new IntroductionViewModel();
-            var projectsVM = new ProjectsViewModel();
+            BindingContext = new PortfolioViewModel();
+            Title = "Abhishek Joshi Portfolio";
 
             InitializeComponent();
         }

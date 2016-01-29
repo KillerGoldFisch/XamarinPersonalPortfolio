@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PersonalXamarinApp.Views;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,18 +13,10 @@ namespace PersonalXamarinApp
         public App()
         {
             // The root page of your application
-            MainPage = new ContentPage
+            MainPage = new NavigationPage(new MainPage())
             {
-                Content = new StackLayout
-                {
-                    VerticalOptions = LayoutOptions.Center,
-                    Children = {
-                        new Label {
-                            XAlign = TextAlignment.Center,
-                            Text = "Welcome to Xamarin Forms!"
-                        }
-                    }
-                }
+                BarTextColor = Color.White,
+                BarBackgroundColor = Color.FromHex("2C97DE")
             };
         }
 
