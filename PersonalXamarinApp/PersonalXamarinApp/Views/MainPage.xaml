@@ -40,6 +40,14 @@
           </ListView>
         </StackLayout>
         
+        <TableView Intent="Data">
+          <TableRoot>
+            <TableSection Title="Experience">
+              
+            </TableSection>
+          </TableRoot>
+        </TableView>        
+        
         <!--Projects-->
         
         
