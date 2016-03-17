@@ -5,6 +5,8 @@ using System.Reflection.Emit;
 using System.Text;
 
 using Xamarin.Forms;
+using XamarinPersonalPortfolio.Models;
+using XamarinPersonalPortfolio.ViewModels;
 
 namespace XamarinPersonalPortfolio.Pages
 {
@@ -12,11 +14,35 @@ namespace XamarinPersonalPortfolio.Pages
     {
         public ProjectsPage()
         {
-            Content = new StackLayout
+            ProjectsViewModel projectsVM = new ProjectsViewModel();
+
+            var layout = new StackLayout
             {
-                Children = {
-                    new Label { Text = "Hello ContentPage" }
-                }
+                Spacing = 0,
+                VerticalOptions = LayoutOptions.FillAndExpand
+            };
+
+            foreach (Project project in projectsVM.Projects)
+            {
+                layout.Children.Add(new Label
+                {
+                    Text = project.title
+                });
+
+                layout.Children.Add(new Label
+                {
+                    Text = project.description
+                });
+
+                layout.Children.Add(new Label
+                {
+                    Text = $"Type: {project.type}"
+                });
+            }
+
+            Content = new ScrollView
+            {
+                Content = layout
             };
         }
     }

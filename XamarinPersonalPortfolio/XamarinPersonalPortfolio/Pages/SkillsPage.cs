@@ -5,6 +5,8 @@ using System.Reflection.Emit;
 using System.Text;
 
 using Xamarin.Forms;
+using XamarinPersonalPortfolio.Models;
+using XamarinPersonalPortfolio.ViewModels;
 
 namespace XamarinPersonalPortfolio.Pages
 {
@@ -12,11 +14,30 @@ namespace XamarinPersonalPortfolio.Pages
     {
         public SkillsPage()
         {
-            Content = new StackLayout
+            SkillsViewModel skillsVM = new SkillsViewModel();
+
+            var layout = new StackLayout
             {
-                Children = {
-                    new Label { Text = "Hello ContentPage" }
-                }
+                Spacing = 0,
+                VerticalOptions = LayoutOptions.FillAndExpand
+            };
+
+            foreach (Skill skills in skillsVM.Skills)
+            {
+                layout.Children.Add(new Label
+                {
+                    Text = skills.title
+                });
+
+                layout.Children.Add(new Label
+                {
+                    Text = skills.description
+                });
+            }
+
+            Content = new ScrollView
+            {
+                Content = layout
             };
         }
     }

@@ -8,3 +8,13 @@ C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPerso
 C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio\obj\Debug\XamarinPersonalPortfolio.dll
 C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio\obj\Debug\XamarinPersonalPortfolio.pdb
 C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio\obj\Debug\XamarinPersonalPortfolio.csprojResolveAssemblyReference.cache
+C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio\bin\Debug\XamarinPersonalPortfolio.dll
+C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio\bin\Debug\XamarinPersonalPortfolio.pdb
+C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio\obj\Debug\XamarinPersonalPortfolio.csprojResolveAssemblyReference.cache
+C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio\obj\Debug\XamarinPersonalPortfolio.dll
+C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio\obj\Debug\XamarinPersonalPortfolio.pdb

@@ -9,7 +9,7 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>f736c883-f105-4d30-a719-4bf328872f5e</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>44AB477D8DF3BAD89290B8AF02CC1692F8A35520553DAC1BEA950E667FC9AA65</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>f736c883-f105-4d30-a719-4bf328872f5e_1.0.0.0_x86__nh7s0b45jarrj</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>f736c883-f105-4d30-a719-4bf328872f5e_nh7s0b45jarrj!App</RegisteredUserModeAppID>
@@ -19,16 +19,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-17T06:32:55.013</Modified>
+      <Modified>2016-03-17T18:49:36.835</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\bin\x86\Debug\XamarinPersonalPortfolio.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\bin\x86\Debug\XamarinPersonalPortfolio.UWP.exe">
       <PackagePath>entrypoint\XamarinPersonalPortfolio.UWP.exe</PackagePath>
-      <Modified>2016-03-17T06:32:54.488</Modified>
+      <Modified>2016-03-17T18:49:36.375</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Abhishek Joshi\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -458,49 +458,49 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2016-03-17T06:03:37.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio\bin\Debug\XamarinPersonalPortfolio.dll">
+    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio\bin\Debug\XamarinPersonalPortfolio.dll">
       <PackagePath>XamarinPersonalPortfolio.dll</PackagePath>
-      <Modified>2016-03-17T06:32:52.295</Modified>
+      <Modified>2016-03-17T18:49:34.497</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2016-03-17T04:27:16.984</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2016-03-17T04:27:16.968</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-03-17T04:27:16.968</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-03-17T04:27:16.968</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-03-17T04:27:16.968</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-03-17T04:27:16.968</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-03-17T04:27:16.968</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-03-17T04:27:16.968</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\bin\x86\Debug\XamarinPersonalPortfolio.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\bin\x86\Debug\XamarinPersonalPortfolio.UWP.xr.xml">
       <PackagePath>XamarinPersonalPortfolio.UWP.xr.xml</PackagePath>
       <Modified>2016-03-17T06:03:00.347</Modified>
     </AppxPackagedFile>
@@ -516,13 +516,13 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml</PackagePath>
       <Modified>2016-03-17T06:03:37.873</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-03-17T06:31:51.790</Modified>
+      <Modified>2016-03-17T18:05:33.648</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\Projects\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\bin\x86\Debug\Core\XamarinPersonalPortfolio.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.UWP\bin\x86\Debug\Core\XamarinPersonalPortfolio.UWP.exe">
       <PackagePath>XamarinPersonalPortfolio.UWP.exe</PackagePath>
-      <Modified>2016-03-17T06:32:55.009</Modified>
+      <Modified>2016-03-17T18:49:36.831</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

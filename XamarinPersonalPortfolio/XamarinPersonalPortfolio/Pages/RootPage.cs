@@ -27,7 +27,7 @@ namespace XamarinPersonalPortfolio.Pages
 
             Detail = new NavigationPage(displayPage);
 
-            IsPresented = false;
+            //IsPresented = false;
         }
     }
 }
