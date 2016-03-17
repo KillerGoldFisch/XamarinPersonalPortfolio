@@ -1,0 +1,2 @@
+C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.Windows\XamarinPersonalPortfolio.Windows.csproj;neutral
+C:\Users\Abhishek Joshi\Documents\GitHub\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio\XamarinPersonalPortfolio.csproj;neutral
